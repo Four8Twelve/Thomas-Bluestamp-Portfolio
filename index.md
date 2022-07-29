@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
+﻿# Smart Mirror
 I am working on a raspberry pi machine learning model
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kevin Miller | RIT | Electrical Engineering | Graduated 
+| Thomas | Meridian Academy | Mechanical Engineering | Student | 
 
 ![Relevant Name](https://cdn-shop.adafruit.com/970x728/4296-11.jpg)
   
@@ -21,6 +21,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was setting up my raspberry pi and uploading the software for the smart mirror. This was done by engraving a micro sd card for the raspberry pi, then downloading the software called MagicMirror2. I had issues with the raspberry pi software but it was solved by formating the micro sd card, which then let the raspberry pi recognize the micro sd. The MagicMirror2 software had some bugs, but quick searches told me that the file were named incorrectly. I now make sure to double check everything before going in for the finished product, as this saves my a lot of time.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
