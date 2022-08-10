@@ -17,10 +17,9 @@ My final milestone is the modules I added to my mirror. I mounted a PIR sensor t
 # Second Milestone
 My second milestone was finishing the basic magic mirror. This was done by mounting my display to the mirror and mirror frame, then locking the mirror in with 3D printed brackets. I had issues with the adhesives to mount the mirror, as nothing would stick to the acrylic. I then had the idea to print custom brackets to keep the mirror in place, using a pressure fit design instead of having to glue the mirror and risk ruinning the project. I now make sure to always look for more obscure ways to solve a problem, instead of jumping in on what is the most obvious or straight forward idea.
 
-[![Third Milestone][![Milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1659971451/video_to_markdown/images/youtube--XmYfsB6uctw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XmYfsB6uctw "Milestone #2")
+[![Milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1659971451/video_to_markdown/images/youtube--XmYfsB6uctw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XmYfsB6uctw "Milestone #2")
 # First Milestone
   
 
 My first milestone was setting up my raspberry pi and uploading the software for the smart mirror. This was done by engraving a micro sd card for the raspberry pi, then downloading the software called MagicMirror2. I had issues with the raspberry pi software but it was solved by formating the micro sd card, which then let the raspberry pi recognize the micro sd. The MagicMirror2 software had some bugs, but quick searches told me that the file were named incorrectly. I now make sure to double check everything before going in for the finished product, as this saves my a lot of time.
-
-[![First Milestone][![Milestone Video #1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659710058/video_to_markdown/images/youtube--Z7IoGdyvIRE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Z7IoGdyvIRE "Milestone Video #1"){:target="_blank" rel="noopener"}
+[![Milestone Video #1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659710058/video_to_markdown/images/youtube--Z7IoGdyvIRE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Z7IoGdyvIRE "Milestone Video #1")
