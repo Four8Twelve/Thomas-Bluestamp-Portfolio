@@ -7,7 +7,8 @@ I am working on a raspberry pi machine learning model
 
 ![Relevant Name](https://cdn-shop.adafruit.com/970x728/4296-11.jpg)
 
-[![Raspberry Pi Camera][![How to Make a Raspberry Pi Smart Mirror](https://res.cloudinary.com/marcomontalbano/image/upload/v1660138682/video_to_markdown/images/youtube--fkVBAcvbrjU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fkVBAcvbrjU&t=2s&ab_channel=HackerShack "How to Make a Raspberry Pi Smart Mirror")
+# Tutorial
+[![How to Make a Raspberry Pi Smart Mirror](https://res.cloudinary.com/marcomontalbano/image/upload/v1660138682/video_to_markdown/images/youtube--fkVBAcvbrjU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fkVBAcvbrjU&t=2s&ab_channel=HackerShack "How to Make a Raspberry Pi Smart Mirror")
   
 # Final Milestone
 My final milestone is the modules I added to my mirror. I mounted a PIR sensor to the mirror to detect movement and turn on, dual displays, and software addons to the MagicMirror2. I had issues with the PIR sensor, which did not work at all. Some only displayed high, and some didn't dispaly anything. I found that the sensors I bought were faulty, and only 1 out of 8 sensors worked. The dual displays also would not display two different MagicMirror2 screens, which I think was a problem with the electron redirecting it to the first one. So i decided to adapt my project, displaying the MagicMirror2 on one screen, and a usable raspberry pi on another screen. This setup will let me run other projects on the mirror, such as an octopi for my 3d printer. I now make sure to test everything and double check everything, as this would have saved my so much time.
